@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Studio Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Studio\Mp3Player\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-e93585dc218e4d0e4627ac79f3b25ba1987793c5.jar" />
+    </item>
+    <item
+        jar="E:\Studio\Mp3Player\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Studio\Mp3Player\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-3e670d719d0c77159405d1266ce0811c71067202.jar" />
+    </item>
+    <item
+        jar="E:\Studio\Mp3Player\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Studio\Mp3Player\app\build\intermediates\pre-dexed\debug\classes-fc5888418aaab868f21f84a4e3e1c61a99f498ae.jar" />
+    </item>
+    <item
+        jar="E:\Studio\Mp3Player\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Studio\Mp3Player\app\build\intermediates\pre-dexed\debug\classes-c0653dadb66be35223b387fee60faddcd9879868.jar" />
+    </item>
+
+</items>
